@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26287621/README.md)
 # Mystery Module Documentation
 
 ## Overview
