@@ -1,0 +1,31 @@
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+env/
+venv/
+
+# Credentials
+*.pem
+*.key
+*.crt
+credentials/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
